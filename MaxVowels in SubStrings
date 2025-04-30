@@ -1,0 +1,41 @@
+Leetcode 1456. Maximum Number of Vowels in a Substring of Given Length.
+Given a string s and an integer k, return the maximum number of vowel letters in any substring of s with length k.
+
+Vowel letters in English are 'a', 'e', 'i', 'o', and 'u'.
+Example 1:
+
+Input: s = "abciiidef", k = 3
+Output: 3
+Explanation: The substring "iii" contains 3 vowel letters.
+
+Example 2:
+
+Input: s = "aeiou", k = 2
+Output: 2
+
+Code : class Solution {
+    public int maxVowels(String s, int k) {
+        int res = 0;
+        int cnt = 0;
+        
+        for(int i=0; i<k; i++){
+            if(checkVowel(s.charAt(i))){
+                cnt++;
+            }
+        }
+        res = Math.max(res,cnt);
+        for(int i=k; i<s.length();i++){
+            if(checkVowel(s.charAt(i))){ // vowel at curr char 
+                cnt++;
+            }
+            if(checkVowel(s.charAt(i-k))){ // if char at beg of window is vowel , out of window
+                cnt--;
+            }
+            res = Math.max(res,cnt);
+        }
+        return res;
+    }
+    private boolean checkVowel(char c){
+        return c == 'a' || c == 'e' || c == 'i' || c == 'o' || c=='u';
+    }
+}
