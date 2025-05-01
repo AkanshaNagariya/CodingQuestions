@@ -1,3 +1,4 @@
+#clear bit
 public class clearbitmanupilation {
     public static void main(String[] args) {
         // clear bit
