@@ -1,5 +1,5 @@
 
-// bit maupilation (0,1)
+// bit manupilation (0,1)
 // get , srt , clear, update bit.
 public class bitmanupilation {
     public static void main(String[] args) {
