@@ -1,3 +1,4 @@
+#Add Binary
 import java.util.Scanner;
 
 public class Arrays {
