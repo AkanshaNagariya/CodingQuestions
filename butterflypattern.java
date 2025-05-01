@@ -1,3 +1,4 @@
+#pattern
 public class butterflypattern {
     public static void main(String args[]){
         int n= 4;
