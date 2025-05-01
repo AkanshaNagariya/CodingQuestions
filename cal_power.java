@@ -2,6 +2,7 @@
 //       x^n 
 //      /   \
 //    x^n/2  x^n/2
+
 import java.util.Scanner;
 public class cal_power {
     public static int calpower(int x, int n){
@@ -11,7 +12,7 @@ public class cal_power {
         if(n == 0){
             return 1;
         }
-        // n isneven
+        // n is even
         if(n % 2 == 0){
             return calpower(x, n/2) * calpower(x, n/2);
         }
