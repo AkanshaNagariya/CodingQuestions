@@ -1,1 +1,24 @@
 
+max points from card
+class Solution {
+    public int maxScore(int[] cardPoints, int k) {
+       int total_points = 0;
+       int n = cardPoints.length;
+       int max = 0;
+       for(int i=0; i<n;i++){
+        total_points += cardPoints[i];
+       }
+       int currsum = 0;
+       int p = n - k;
+       for(int right = 0; right<p;right++){
+        currsum += cardPoints[right];
+       }
+       max = Math.max(max, total_points - currsum);
+       for(int j = p; j<n; j++){
+        currsum -= cardPoints[j-p];
+        currsum += cardPoints[j];
+        max = Math.max(max, total_points - currsum);
+       }
+       return max;
+    }
+}
