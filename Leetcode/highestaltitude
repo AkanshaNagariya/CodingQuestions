@@ -1,1 +1,16 @@
-
+class Solution {
+    public int largestAltitude(int[] gain) {
+        int [] second = new int[gain.length+1];
+        second[0] = 0;
+        int n =0;
+        for(int i=0; i<gain.length;i++){
+            n += gain[i];
+            second[i+1] = n;
+        }
+        int max = 0;
+        for(int j=0; j<second.length;j++){
+            max = Math.max(max,second[j]);
+        }
+        return max;
+    }
+}
