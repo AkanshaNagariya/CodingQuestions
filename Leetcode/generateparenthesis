@@ -1,1 +1,20 @@
 
+class Solution {
+    public List<String> generateParenthesis(int n) {
+        List<String> ans = new ArrayList<>();
+        findString("",n,n,2*n,ans);
+        return ans;
+    }
+    public void findString(String curr,int open , int close, int total, List<String> ans){
+        if(curr.length() == total){
+            ans.add(curr);
+            return;
+        }
+        if(open < total){
+            findString(curr+"(",open+1,close,total,ans);
+        }
+        if(close < open){
+            findString(curr+")",open,close+1,total,ans);
+        }
+    }
+}
