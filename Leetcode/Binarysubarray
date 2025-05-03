@@ -1,1 +1,18 @@
-
+class Solution {
+    public int numSubarraysWithSum(int[] nums, int goal) {
+        return findall(nums, goal) - findall(nums,goal-1);
+    }
+    public static int findall(int []nums , int goal){
+        int left = 0, right = 0;
+        int sum = 0, cnt =0;
+        for(right = 0; right<nums.length; right++){
+            sum += nums[right];
+            while(sum > goal && left<=right){
+                sum -= nums[left];
+                left++;
+            }
+            cnt += (right - left + 1);
+        }
+        return cnt;
+    }
+}
