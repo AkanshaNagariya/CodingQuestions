@@ -1,1 +1,26 @@
-
+class Solution {
+    public double myPow(double x, int n) {
+        long N = n;  // Convert to long to handle -2147483648
+        if (N < 0) {
+            x = 1 / x;
+            N = -N;
+        }
+        return power(x, N);
+    } 
+    public double power(double x , long n){
+        if(n==0) {
+            return 1;
+        }
+        // Recursively calculate x^(n/2)
+        double temp = power(x,n/2);
+        
+        // If n is even, return (x^(n/2))^2
+        if(n%2==0){
+            return (temp * temp);
+        }
+        // If n is odd, return (x^(n/2))^2 * x
+        else{
+            return (x * temp * temp);
+        }
+    }
+}
