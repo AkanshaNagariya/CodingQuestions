@@ -1,1 +1,18 @@
-
+class Solution {
+    public int numberOfSubarrays(int[] nums, int k) {
+        return findall(nums, k) - findall(nums,k-1);
+    }
+    public static int findall(int []nums , int goal){
+        int left = 0, right = 0;
+        int sum = 0, cnt =0;
+        for(right = 0; right<nums.length; right++){
+            sum += (nums[right] % 2);
+            while(sum > goal && left<=right){
+                sum -= (nums[left] % 2);
+                left++;
+            }
+            cnt += (right - left + 1);
+        }
+        return cnt;
+    }
+} 
