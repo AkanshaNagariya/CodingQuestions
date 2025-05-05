@@ -33,6 +33,7 @@
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0943-sum-of-subarray-minimums](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0943-sum-of-subarray-minimums) |
+| [1477-product-of-the-last-k-numbers](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
@@ -52,11 +53,13 @@
 ## Math
 |  |
 | ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Prefix Sum
 |  |
 | ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 ## Stack
 |  |
@@ -141,9 +144,14 @@
 | ------- |
 | [0155-min-stack](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0155-min-stack) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1477-product-of-the-last-k-numbers](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1477-product-of-the-last-k-numbers) |
 ## Greedy
 |  |
 | ------- |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2456-construct-smallest-number-from-di-string) |
+## Data Stream
+|  |
+| ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1477-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
