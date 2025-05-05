@@ -35,6 +35,7 @@
 | [0943-sum-of-subarray-minimums](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0943-sum-of-subarray-minimums) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2107-find-unique-binary-string](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2107-find-unique-binary-string) |
 | [2227-sum-of-subarray-ranges](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2227-sum-of-subarray-ranges) |
@@ -94,6 +95,7 @@
 | ------- |
 | [1160-letter-tile-possibilities](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+| [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2107-find-unique-binary-string](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2107-find-unique-binary-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Counting
