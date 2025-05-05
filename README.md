@@ -53,6 +53,7 @@
 |  |
 | ------- |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -98,6 +99,7 @@
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2107-find-unique-binary-string](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2107-find-unique-binary-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2456-construct-smallest-number-from-di-string) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Counting
 |  |
 | ------- |
