@@ -24,6 +24,7 @@
 | [0503-next-greater-element-ii](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0735-asteroid-collision) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0943-sum-of-subarray-minimums](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0943-sum-of-subarray-minimums) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -35,6 +36,7 @@
 | ------- |
 | [0496-next-greater-element-i](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0496-next-greater-element-i) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1160-letter-tile-possibilities) |
 ## Math
 |  |
@@ -82,6 +84,7 @@
 ## Tree
 |  |
 | ------- |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2564-most-profitable-path-in-a-tree) |
 ## Depth-First Search
 |  |
@@ -95,4 +98,12 @@
 |  |
 | ------- |
 | [2564-most-profitable-path-in-a-tree](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2564-most-profitable-path-in-a-tree) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 <!---LeetCode Topics End-->
