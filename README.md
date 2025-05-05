@@ -39,6 +39,7 @@
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1160-letter-tile-possibilities) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Math
 |  |
 | ------- |
@@ -87,15 +88,18 @@
 | ------- |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2564-most-profitable-path-in-a-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2564-most-profitable-path-in-a-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2564-most-profitable-path-in-a-tree) |
 ## Graph
 |  |
@@ -110,4 +114,9 @@
 | ------- |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+## Design
+|  |
+| ------- |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 <!---LeetCode Topics End-->
