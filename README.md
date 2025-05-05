@@ -19,6 +19,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0735-asteroid-collision) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -30,6 +31,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0496-next-greater-element-i) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 ## Math
 |  |
@@ -43,6 +45,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0735-asteroid-collision) |
 | [0943-sum-of-subarray-minimums](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0943-sum-of-subarray-minimums) |
@@ -52,6 +55,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0503-next-greater-element-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0943-sum-of-subarray-minimums) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
