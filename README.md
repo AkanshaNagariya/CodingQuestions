@@ -10,6 +10,7 @@
 | [1160-letter-tile-possibilities](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1160-letter-tile-possibilities) |
 | [1170-shortest-common-supersequence](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1170-shortest-common-supersequence) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2107-find-unique-binary-string](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2107-find-unique-binary-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Dynamic Programming
@@ -77,6 +78,7 @@
 | [0943-sum-of-subarray-minimums](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0943-sum-of-subarray-minimums) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2227-sum-of-subarray-ranges](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2227-sum-of-subarray-ranges) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Monotonic Stack
@@ -97,6 +99,7 @@
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0735-asteroid-collision) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## Backtracking
 |  |
