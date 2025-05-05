@@ -5,7 +5,7 @@ class Solution {
        } 
        Stack<Character> st = new Stack<>();
        for(int i=0; i<num.length();i++){
-           while(!st.isEmpty() && st.peek() > num.charAt(i) && k !=0){
+           while(!st.isEmpty() && st.peek()-'0' > num.charAt(i)-'0' && k !=0){
             st.pop();
             k--;
            }
