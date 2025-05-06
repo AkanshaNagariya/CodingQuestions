@@ -10,6 +10,7 @@
 | [1160-letter-tile-possibilities](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1160-letter-tile-possibilities) |
 | [1170-shortest-common-supersequence](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1170-shortest-common-supersequence) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2107-find-unique-binary-string](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2107-find-unique-binary-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2456-construct-smallest-number-from-di-string) |
@@ -58,6 +59,7 @@
 | [1160-letter-tile-possibilities](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1364-tuple-with-same-product) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2107-find-unique-binary-string](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2107-find-unique-binary-string) |
 | [2434-design-a-number-container-system](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2448-count-number-of-bad-pairs) |
@@ -129,6 +131,7 @@
 | ------- |
 | [1160-letter-tile-possibilities](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1364-tuple-with-same-product) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2448-count-number-of-bad-pairs](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2448-count-number-of-bad-pairs) |
 ## Tree
 |  |
