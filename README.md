@@ -274,4 +274,5 @@
 |  |
 | ------- |
 | [0137-single-number-ii](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0137-single-number-ii) |
+| [2323-minimum-bit-flips-to-convert-number](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2323-minimum-bit-flips-to-convert-number) |
 <!---LeetCode Topics End-->
