@@ -36,6 +36,7 @@
 | [0042-trapping-rain-water](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0334-increasing-triplet-subsequence](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0334-increasing-triplet-subsequence) |
+| [0493-reverse-pairs](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0503-next-greater-element-ii) |
 | [0605-can-place-flowers](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0605-can-place-flowers) |
@@ -175,6 +176,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0493-reverse-pairs) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Binary Tree
 |  |
@@ -215,6 +217,7 @@
 ## Ordered Set
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0493-reverse-pairs) |
 | [2434-design-a-number-container-system](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2434-design-a-number-container-system) |
 ## Queue
 |  |
@@ -229,4 +232,20 @@
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0326-power-of-three) |
+## Binary Search
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0493-reverse-pairs) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0493-reverse-pairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
