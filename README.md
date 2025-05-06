@@ -50,6 +50,7 @@
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2564-most-profitable-path-in-a-tree) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+| [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Hash Table
 |  |
