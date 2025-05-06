@@ -37,6 +37,7 @@
 | [0016-3sum-closest](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0016-3sum-closest) |
 | [0042-trapping-rain-water](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0303-range-sum-query-immutable](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0303-range-sum-query-immutable) |
 | [0334-increasing-triplet-subsequence](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0334-increasing-triplet-subsequence) |
 | [0493-reverse-pairs](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0496-next-greater-element-i) |
@@ -89,6 +90,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0303-range-sum-query-immutable) |
 | [1477-product-of-the-last-k-numbers](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 ## Stack
@@ -194,6 +196,7 @@
 | [0155-min-stack](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0232-implement-queue-using-stacks) |
+| [0303-range-sum-query-immutable](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0303-range-sum-query-immutable) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1477-product-of-the-last-k-numbers) |
 | [2434-design-a-number-container-system](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2434-design-a-number-container-system) |
