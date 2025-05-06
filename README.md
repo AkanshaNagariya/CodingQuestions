@@ -33,6 +33,7 @@
 ## Array
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0016-3sum-closest) |
 | [0042-trapping-rain-water](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0334-increasing-triplet-subsequence](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0334-increasing-triplet-subsequence) |
@@ -121,6 +122,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0016-3sum-closest) |
 | [0042-trapping-rain-water](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0042-trapping-rain-water) |
 | [0151-reverse-words-in-a-string](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0345-reverse-vowels-of-a-string) |
@@ -213,6 +215,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0016-3sum-closest) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Ordered Set
 |  |
