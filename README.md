@@ -33,6 +33,7 @@
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0016-3sum-closest) |
 | [0042-trapping-rain-water](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0084-largest-rectangle-in-histogram) |
@@ -122,6 +123,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0016-3sum-closest) |
 | [0042-trapping-rain-water](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0042-trapping-rain-water) |
 | [0151-reverse-words-in-a-string](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0151-reverse-words-in-a-string) |
@@ -198,6 +200,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0011-container-with-most-water) |
 | [0334-increasing-triplet-subsequence](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0605-can-place-flowers) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
