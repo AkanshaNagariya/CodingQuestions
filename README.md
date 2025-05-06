@@ -247,6 +247,7 @@
 | ------- |
 | [1153-product-sales-analysis-i](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1153-product-sales-analysis-i) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
+| [1827-invalid-tweets](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1827-invalid-tweets) |
 ## Recursion
 |  |
 | ------- |
