@@ -220,4 +220,8 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0232-implement-queue-using-stacks) |
+## Database
+|  |
+| ------- |
+| [1509-replace-employee-id-with-the-unique-identifier](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 <!---LeetCode Topics End-->
