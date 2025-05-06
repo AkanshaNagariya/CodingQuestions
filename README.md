@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0020-valid-parentheses) |
+| [0038-count-and-say](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0038-count-and-say) |
 | [0151-reverse-words-in-a-string](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0443-string-compression) |
