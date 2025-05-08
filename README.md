@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0005-longest-palindromic-substring) |
+| [0012-integer-to-roman](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0038-count-and-say) |
@@ -78,6 +79,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0217-contains-duplicate](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0217-contains-duplicate) |
 | [0496-next-greater-element-i](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0496-next-greater-element-i) |
@@ -96,6 +98,7 @@
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0012-integer-to-roman) |
 | [0326-power-of-three](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0326-power-of-three) |
 | [1477-product-of-the-last-k-numbers](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
