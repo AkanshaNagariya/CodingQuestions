@@ -34,6 +34,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0016-3sum-closest) |
 | [0042-trapping-rain-water](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0042-trapping-rain-water) |
@@ -73,6 +74,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0217-contains-duplicate](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0217-contains-duplicate) |
 | [0496-next-greater-element-i](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0496-next-greater-element-i) |
