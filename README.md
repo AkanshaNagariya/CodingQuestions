@@ -4,6 +4,7 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0005-longest-palindromic-substring) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0038-count-and-say) |
@@ -24,6 +25,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0042-trapping-rain-water) |
 | [0806-domino-and-tromino-tiling](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0806-domino-and-tromino-tiling) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -135,6 +137,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0016-3sum-closest) |
 | [0042-trapping-rain-water](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0042-trapping-rain-water) |
