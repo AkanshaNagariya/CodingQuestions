@@ -259,6 +259,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0021-merge-two-sorted-lists) |
 | [0326-power-of-three](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0326-power-of-three) |
 ## Binary Search
 |  |
@@ -279,6 +280,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0021-merge-two-sorted-lists) |
 | [0147-insertion-sort-list](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0147-insertion-sort-list) |
 ## Bit Manipulation
 |  |
