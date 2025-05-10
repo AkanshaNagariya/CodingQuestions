@@ -72,6 +72,7 @@
 | [2448-count-number-of-bad-pairs](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2564-most-profitable-path-in-a-tree) |
+| [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -233,6 +234,7 @@
 | [0605-can-place-flowers](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0605-can-place-flowers) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2456-construct-smallest-number-from-di-string) |
+| [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 ## Data Stream
 |  |
 | ------- |
