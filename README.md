@@ -58,6 +58,7 @@
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0943-sum-of-subarray-minimums](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0943-sum-of-subarray-minimums) |
+| [1293-three-consecutive-odds](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1293-three-consecutive-odds) |
 | [1364-tuple-with-same-product](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1364-tuple-with-same-product) |
 | [1477-product-of-the-last-k-numbers](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
