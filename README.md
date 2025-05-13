@@ -46,6 +46,7 @@
 | [0011-container-with-most-water](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0016-3sum-closest) |
 | [0042-trapping-rain-water](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0042-trapping-rain-water) |
+| [0056-merge-intervals](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0056-merge-intervals) |
 | [0084-largest-rectangle-in-histogram](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0135-candy](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0135-candy) |
 | [0137-single-number-ii](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0137-single-number-ii) |
@@ -260,6 +261,7 @@
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0016-3sum-closest) |
+| [0056-merge-intervals](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0056-merge-intervals) |
 | [0147-insertion-sort-list](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0147-insertion-sort-list) |
 | [0217-contains-duplicate](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0217-contains-duplicate) |
 | [2215-finding-3-digit-even-numbers](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2215-finding-3-digit-even-numbers) |
