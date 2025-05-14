@@ -68,6 +68,7 @@
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [1829-maximum-units-on-a-truck](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1829-maximum-units-on-a-truck) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -243,6 +244,7 @@
 | [0605-can-place-flowers](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0605-can-place-flowers) |
 | [0678-valid-parenthesis-string](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0678-valid-parenthesis-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1829-maximum-units-on-a-truck](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1829-maximum-units-on-a-truck) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 ## Data Stream
@@ -264,6 +266,7 @@
 | [0056-merge-intervals](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0056-merge-intervals) |
 | [0147-insertion-sort-list](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0147-insertion-sort-list) |
 | [0217-contains-duplicate](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0217-contains-duplicate) |
+| [1829-maximum-units-on-a-truck](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1829-maximum-units-on-a-truck) |
 | [2215-finding-3-digit-even-numbers](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Ordered Set
