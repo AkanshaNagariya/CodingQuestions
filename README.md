@@ -22,6 +22,7 @@
 | [1160-letter-tile-possibilities](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1160-letter-tile-possibilities) |
 | [1170-shortest-common-supersequence](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1170-shortest-common-supersequence) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1777-determine-if-two-strings-are-close](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1777-determine-if-two-strings-are-close) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1894-merge-strings-alternately](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1894-merge-strings-alternately) |
@@ -378,5 +379,6 @@
 ## Sliding Window
 |  |
 | ------- |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 <!---LeetCode Topics End-->
