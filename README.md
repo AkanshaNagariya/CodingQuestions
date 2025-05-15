@@ -22,6 +22,7 @@
 | [1160-letter-tile-possibilities](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1160-letter-tile-possibilities) |
 | [1170-shortest-common-supersequence](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1170-shortest-common-supersequence) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+| [1777-determine-if-two-strings-are-close](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1777-determine-if-two-strings-are-close) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1894-merge-strings-alternately](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1894-merge-strings-alternately) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -104,6 +105,7 @@
 | [1160-letter-tile-possibilities](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1364-tuple-with-same-product) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1777-determine-if-two-strings-are-close](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1777-determine-if-two-strings-are-close) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2107-find-unique-binary-string](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2107-find-unique-binary-string) |
@@ -201,6 +203,7 @@
 | ------- |
 | [1160-letter-tile-possibilities](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1364-tuple-with-same-product) |
+| [1777-determine-if-two-strings-are-close](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1777-determine-if-two-strings-are-close) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2448-count-number-of-bad-pairs](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2448-count-number-of-bad-pairs) |
@@ -283,6 +286,7 @@
 | [0056-merge-intervals](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0056-merge-intervals) |
 | [0147-insertion-sort-list](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0147-insertion-sort-list) |
 | [0217-contains-duplicate](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0217-contains-duplicate) |
+| [1777-determine-if-two-strings-are-close](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1777-determine-if-two-strings-are-close) |
 | [1829-maximum-units-on-a-truck](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1829-maximum-units-on-a-truck) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2215-finding-3-digit-even-numbers](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2215-finding-3-digit-even-numbers) |
