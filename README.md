@@ -73,6 +73,7 @@
 | [1364-tuple-with-same-product](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1364-tuple-with-same-product) |
 | [1477-product-of-the-last-k-numbers](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
@@ -277,6 +278,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2434-design-a-number-container-system](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
@@ -289,6 +291,7 @@
 | [0056-merge-intervals](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0056-merge-intervals) |
 | [0147-insertion-sort-list](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0147-insertion-sort-list) |
 | [0217-contains-duplicate](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0217-contains-duplicate) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1777-determine-if-two-strings-are-close](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1777-determine-if-two-strings-are-close) |
 | [1829-maximum-units-on-a-truck](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1829-maximum-units-on-a-truck) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
