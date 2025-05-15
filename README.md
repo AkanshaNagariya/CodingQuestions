@@ -14,6 +14,7 @@
 | [0168-excel-sheet-column-title](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0171-excel-sheet-column-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0394-decode-string](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0443-string-compression) |
 | [0678-valid-parenthesis-string](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0678-valid-parenthesis-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -140,6 +141,7 @@
 | [0155-min-stack](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0232-implement-queue-using-stacks) |
+| [0394-decode-string](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0678-valid-parenthesis-string) |
@@ -312,6 +314,7 @@
 | [0002-add-two-numbers](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0021-merge-two-sorted-lists) |
 | [0326-power-of-three](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0326-power-of-three) |
+| [0394-decode-string](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0394-decode-string) |
 ## Binary Search
 |  |
 | ------- |
