@@ -80,6 +80,7 @@
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2215-finding-3-digit-even-numbers](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2227-sum-of-subarray-ranges](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2227-sum-of-subarray-ranges) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2448-count-number-of-bad-pairs](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2564-most-profitable-path-in-a-tree) |
@@ -172,6 +173,7 @@
 | [0443-string-compression](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0443-string-compression) |
 | [1894-merge-strings-alternately](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1894-merge-strings-alternately) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Simulation
 |  |
 | ------- |
@@ -280,6 +282,7 @@
 | [1829-maximum-units-on-a-truck](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1829-maximum-units-on-a-truck) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2215-finding-3-digit-even-numbers](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2215-finding-3-digit-even-numbers) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Ordered Set
 |  |
@@ -311,6 +314,7 @@
 | ------- |
 | [0493-reverse-pairs](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0493-reverse-pairs) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Binary Indexed Tree
 |  |
 | ------- |
