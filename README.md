@@ -244,6 +244,7 @@
 | [0225-implement-stack-using-queues](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0303-range-sum-query-immutable) |
+| [0969-number-of-recent-calls](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0969-number-of-recent-calls) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1477-product-of-the-last-k-numbers) |
 | [2434-design-a-number-container-system](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2434-design-a-number-container-system) |
@@ -263,6 +264,7 @@
 ## Data Stream
 |  |
 | ------- |
+| [0969-number-of-recent-calls](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0969-number-of-recent-calls) |
 | [1477-product-of-the-last-k-numbers](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1477-product-of-the-last-k-numbers) |
 ## Heap (Priority Queue)
 |  |
@@ -294,6 +296,7 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0232-implement-queue-using-stacks) |
+| [0969-number-of-recent-calls](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0969-number-of-recent-calls) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 ## Database
 |  |
