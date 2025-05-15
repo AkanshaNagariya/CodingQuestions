@@ -9,6 +9,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0038-count-and-say) |
+| [0067-add-binary](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0171-excel-sheet-column-number) |
@@ -114,6 +115,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0012-integer-to-roman) |
+| [0067-add-binary](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0171-excel-sheet-column-number) |
 | [0326-power-of-three](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0326-power-of-three) |
@@ -173,6 +175,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0067-add-binary) |
 | [0735-asteroid-collision](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0735-asteroid-collision) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2048-build-array-from-permutation) |
@@ -330,6 +333,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0067-add-binary) |
 | [0137-single-number-ii](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0260-single-number-iii) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2323-minimum-bit-flips-to-convert-number) |
