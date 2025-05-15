@@ -10,6 +10,7 @@
 | [0020-valid-parentheses](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0038-count-and-say) |
 | [0151-reverse-words-in-a-string](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0151-reverse-words-in-a-string) |
+| [0171-excel-sheet-column-number](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0171-excel-sheet-column-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0443-string-compression) |
 | [0678-valid-parenthesis-string](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0678-valid-parenthesis-string) |
@@ -112,6 +113,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0012-integer-to-roman) |
+| [0171-excel-sheet-column-number](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0171-excel-sheet-column-number) |
 | [0326-power-of-three](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0326-power-of-three) |
 | [1477-product-of-the-last-k-numbers](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
