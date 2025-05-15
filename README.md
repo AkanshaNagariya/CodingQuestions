@@ -74,6 +74,7 @@
 | [1927-maximum-ascending-subarray-sum](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2048-build-array-from-permutation](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2048-build-array-from-permutation) |
 | [2107-find-unique-binary-string](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2107-find-unique-binary-string) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2215-finding-3-digit-even-numbers](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2227-sum-of-subarray-ranges](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2227-sum-of-subarray-ranges) |
 | [2448-count-number-of-bad-pairs](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2448-count-number-of-bad-pairs) |
@@ -163,6 +164,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0443-string-compression) |
 | [1894-merge-strings-alternately](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1894-merge-strings-alternately) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 ## Simulation
 |  |
 | ------- |
@@ -245,6 +247,7 @@
 | [0678-valid-parenthesis-string](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0678-valid-parenthesis-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1829-maximum-units-on-a-truck](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1829-maximum-units-on-a-truck) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 ## Data Stream
@@ -267,6 +270,7 @@
 | [0147-insertion-sort-list](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0147-insertion-sort-list) |
 | [0217-contains-duplicate](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0217-contains-duplicate) |
 | [1829-maximum-units-on-a-truck](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1829-maximum-units-on-a-truck) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2215-finding-3-digit-even-numbers](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Ordered Set
@@ -279,6 +283,7 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0232-implement-queue-using-stacks) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 ## Database
 |  |
 | ------- |
@@ -296,6 +301,7 @@
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0493-reverse-pairs) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -338,4 +344,8 @@
 |  |
 | ------- |
 | [2215-finding-3-digit-even-numbers](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2215-finding-3-digit-even-numbers) |
+## Monotonic Queue
+|  |
+| ------- |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 <!---LeetCode Topics End-->
