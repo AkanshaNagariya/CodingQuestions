@@ -128,6 +128,7 @@
 | [0067-add-binary](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0171-excel-sheet-column-number) |
+| [0258-add-digits](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0326-power-of-three) |
 | [1477-product-of-the-last-k-numbers](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -188,6 +189,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0258-add-digits) |
 | [0735-asteroid-collision](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0735-asteroid-collision) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2048-build-array-from-permutation) |
@@ -387,4 +389,8 @@
 | [0219-contains-duplicate-ii](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0219-contains-duplicate-ii) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
