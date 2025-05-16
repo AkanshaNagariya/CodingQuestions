@@ -58,6 +58,7 @@
 | [0135-candy](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0135-candy) |
 | [0137-single-number-ii](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0137-single-number-ii) |
 | [0217-contains-duplicate](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0219-contains-duplicate-ii) |
 | [0260-single-number-iii](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0260-single-number-iii) |
 | [0303-range-sum-query-immutable](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0303-range-sum-query-immutable) |
 | [0334-increasing-triplet-subsequence](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0334-increasing-triplet-subsequence) |
@@ -103,6 +104,7 @@
 | [0012-integer-to-roman](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0217-contains-duplicate](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0219-contains-duplicate-ii) |
 | [0496-next-greater-element-i](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0496-next-greater-element-i) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -382,6 +384,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0219-contains-duplicate-ii) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 <!---LeetCode Topics End-->
