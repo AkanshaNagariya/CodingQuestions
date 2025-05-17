@@ -43,4 +43,8 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0012-integer-to-roman) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
