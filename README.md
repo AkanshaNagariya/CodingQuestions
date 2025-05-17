@@ -14,6 +14,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0242-valid-anagram](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0242-valid-anagram) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -35,6 +36,7 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0012-integer-to-roman) |
+| [0242-valid-anagram](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0242-valid-anagram) |
 ## Math
 |  |
 | ------- |
@@ -43,6 +45,7 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0012-integer-to-roman) |
+| [0242-valid-anagram](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0242-valid-anagram) |
 ## Database
 |  |
 | ------- |
