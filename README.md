@@ -57,6 +57,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0135-candy](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0135-candy) |
 | [0137-single-number-ii](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0137-single-number-ii) |
+| [0215-kth-largest-element-in-an-array](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0219-contains-duplicate-ii) |
 | [0260-single-number-iii](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0260-single-number-iii) |
@@ -242,6 +243,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0493-reverse-pairs](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0493-reverse-pairs) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Binary Tree
@@ -282,6 +284,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0215-kth-largest-element-in-an-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2434-design-a-number-container-system](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -294,6 +297,7 @@
 | [0016-3sum-closest](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0016-3sum-closest) |
 | [0056-merge-intervals](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0056-merge-intervals) |
 | [0147-insertion-sort-list](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0147-insertion-sort-list) |
+| [0215-kth-largest-element-in-an-array](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0217-contains-duplicate) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1777-determine-if-two-strings-are-close](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1777-determine-if-two-strings-are-close) |
@@ -393,4 +397,8 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0258-add-digits) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
