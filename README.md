@@ -36,6 +36,7 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0012-integer-to-roman) |
+| [0205-isomorphic-strings](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0242-valid-anagram) |
 ## Math
 |  |
@@ -45,6 +46,7 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0012-integer-to-roman) |
+| [0205-isomorphic-strings](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0242-valid-anagram) |
 ## Database
 |  |
