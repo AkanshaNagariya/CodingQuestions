@@ -9,6 +9,7 @@
 | [0410-split-array-largest-sum](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0410-split-array-largest-sum) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1675-magnetic-force-between-two-balls](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1675-magnetic-force-between-two-balls) |
 ## Divide and Conquer
 |  |
@@ -89,6 +90,7 @@
 | [0410-split-array-largest-sum](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0410-split-array-largest-sum) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1675-magnetic-force-between-two-balls](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1675-magnetic-force-between-two-balls) |
 ## Dynamic Programming
 |  |
