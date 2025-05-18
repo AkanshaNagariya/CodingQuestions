@@ -13,6 +13,7 @@
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1675-magnetic-force-between-two-balls](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1675-magnetic-force-between-two-balls) |
 | [2048-build-array-from-permutation](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2048-build-array-from-permutation) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -30,6 +31,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0215-kth-largest-element-in-an-array) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Quickselect
 |  |
 | ------- |
@@ -107,4 +109,16 @@
 |  |
 | ------- |
 | [2048-build-array-from-permutation](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2048-build-array-from-permutation) |
+## Graph
+|  |
+| ------- |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+## Matrix
+|  |
+| ------- |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+## Shortest Path
+|  |
+| ------- |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 <!---LeetCode Topics End-->
