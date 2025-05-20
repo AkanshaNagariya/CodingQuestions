@@ -9,6 +9,7 @@
 | [0410-split-array-largest-sum](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0410-split-array-largest-sum) |
 | [0907-koko-eating-bananas](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1127-last-stone-weight](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1127-last-stone-weight) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1675-magnetic-force-between-two-balls](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1675-magnetic-force-between-two-balls) |
@@ -31,6 +32,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0215-kth-largest-element-in-an-array) |
+| [1127-last-stone-weight](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1127-last-stone-weight) |
 | [2413-smallest-number-in-infinite-set](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2413-smallest-number-in-infinite-set) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Quickselect
