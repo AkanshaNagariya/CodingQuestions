@@ -32,6 +32,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0242-valid-anagram) |
+| [0295-find-median-from-data-stream](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0621-task-scheduler) |
 | [0876-hand-of-straights](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0876-hand-of-straights) |
@@ -43,6 +44,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0621-task-scheduler) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -112,6 +114,7 @@
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0151-reverse-words-in-a-string) |
+| [0295-find-median-from-data-stream](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0295-find-median-from-data-stream) |
 ## Stack
 |  |
 | ------- |
@@ -154,6 +157,7 @@
 ## Design
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0295-find-median-from-data-stream) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [2413-smallest-number-in-infinite-set](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2413-smallest-number-in-infinite-set) |
 ## Ordered Set
@@ -197,6 +201,7 @@
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0295-find-median-from-data-stream) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Bucket Sort
 |  |
