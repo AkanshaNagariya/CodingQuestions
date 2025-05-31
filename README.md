@@ -46,6 +46,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0347-top-k-frequent-elements) |
+| [0355-design-twitter](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0355-design-twitter) |
 | [0621-task-scheduler](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0621-task-scheduler) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1127-last-stone-weight](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1127-last-stone-weight) |
@@ -61,6 +62,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0023-merge-k-sorted-lists) |
+| [0355-design-twitter](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0355-design-twitter) |
 ## Merge Sort
 |  |
 | ------- |
@@ -72,6 +74,7 @@
 | [0205-isomorphic-strings](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0347-top-k-frequent-elements) |
+| [0355-design-twitter](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0355-design-twitter) |
 | [0387-first-unique-character-in-a-string](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0387-first-unique-character-in-a-string) |
 | [0621-task-scheduler](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0621-task-scheduler) |
 | [0876-hand-of-straights](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0876-hand-of-straights) |
@@ -158,6 +161,7 @@
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0295-find-median-from-data-stream) |
+| [0355-design-twitter](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0355-design-twitter) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [2413-smallest-number-in-infinite-set](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2413-smallest-number-in-infinite-set) |
 ## Ordered Set
