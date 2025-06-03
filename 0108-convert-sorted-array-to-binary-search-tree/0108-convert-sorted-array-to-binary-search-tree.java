@@ -16,36 +16,15 @@
 class Solution {
     TreeNode root;
     public TreeNode sortedArrayToBST(int[] nums) {
-         populatedSorted(nums, 0, nums.length);
-         return root;
-        }
-    private void populatedSorted(int[] nums, int start, int end) {
-	    if (start >= end) {
-	      return;
-	    }
-	    int mid = (start + end) / 2;
-	    this.insertit(nums[mid]);
-	    populatedSorted(nums, start, mid);
-	    populatedSorted(nums, mid + 1, end);
-	  }
-      public TreeNode insertit(int val) {
-	    root = insert(val, root); // whatever ans will be returned fron this func 
-	    // will be set as root for that perticular call
+        return insert(nums, 0, nums.length - 1);
+    }
+
+    private TreeNode insert(int[] nums, int left, int right) {
+        if (left > right) return null;
+        int mid = (left + right) / 2;
+        TreeNode root = new TreeNode(nums[mid]);
+        root.left = insert(nums, left, mid - 1);
+        root.right = insert(nums, mid + 1, right);
         return root;
-	  }
-      private TreeNode insert(int val, TreeNode node) {
-	    if (node == null) { // if there is no value i.e this is root node itself 
-	      node = new TreeNode(val);  // create it with value
-	      return node;
-	    }
-
-	    if (val < node.val) { // else check if the value to insert is < our nodes's value 
-	      node.left = insert(val, node.left); // insert at left of node 
-	    }
-
-	    if (val > node.val) { // insert at right
-	      node.right = insert(val, node.right); // right of node
-	    }
-	    return node; // same node returned with left and right
-	  }
+    }
 }
