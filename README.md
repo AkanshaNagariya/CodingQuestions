@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0216-combination-sum-iii) |
 | [0347-top-k-frequent-elements](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0347-top-k-frequent-elements) |
@@ -26,6 +27,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0023-merge-k-sorted-lists) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
@@ -203,14 +205,17 @@
 ## Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Binary Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Data Stream
 |  |
