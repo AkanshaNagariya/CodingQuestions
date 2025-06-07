@@ -197,6 +197,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0199-binary-tree-right-side-view) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0871-keys-and-rooms](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0871-keys-and-rooms) |
+| [1035-cousins-in-binary-tree](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1035-cousins-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -207,6 +208,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0199-binary-tree-right-side-view) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0871-keys-and-rooms](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0871-keys-and-rooms) |
+| [1035-cousins-in-binary-tree](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1035-cousins-in-binary-tree) |
 ## Queue
 |  |
 | ------- |
@@ -234,6 +236,7 @@
 | [0783-search-in-a-binary-search-tree](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1035-cousins-in-binary-tree](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1035-cousins-in-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -257,6 +260,7 @@
 | [0783-search-in-a-binary-search-tree](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1035-cousins-in-binary-tree](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1035-cousins-in-binary-tree) |
 ## Data Stream
 |  |
 | ------- |
