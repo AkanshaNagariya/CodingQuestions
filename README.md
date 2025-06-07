@@ -67,6 +67,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0023-merge-k-sorted-lists) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0355-design-twitter](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0355-design-twitter) |
 ## Merge Sort
 |  |
@@ -190,6 +191,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0144-binary-tree-preorder-traversal](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -200,6 +202,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0871-keys-and-rooms](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0871-keys-and-rooms) |
 ## Queue
@@ -221,6 +224,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0144-binary-tree-preorder-traversal](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -242,6 +246,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0144-binary-tree-preorder-traversal](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0637-average-of-levels-in-binary-tree) |
