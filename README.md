@@ -15,6 +15,7 @@
 | [0692-top-k-frequent-words](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0692-top-k-frequent-words) |
 | [0876-hand-of-straights](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0876-hand-of-straights) |
 | [0907-koko-eating-bananas](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0907-koko-eating-bananas) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1127-last-stone-weight](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1127-last-stone-weight) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -142,6 +143,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0145-binary-tree-postorder-traversal) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1078-remove-outermost-parentheses](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1078-remove-outermost-parentheses) |
 ## Binary Search
 |  |
@@ -281,6 +283,7 @@
 | [0784-insert-into-a-binary-search-tree](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1035-cousins-in-binary-tree](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1035-cousins-in-binary-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -290,6 +293,7 @@
 | [0783-search-in-a-binary-search-tree](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
@@ -322,6 +326,7 @@
 | [0784-insert-into-a-binary-search-tree](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1035-cousins-in-binary-tree](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1035-cousins-in-binary-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Data Stream
 |  |
 | ------- |
@@ -336,4 +341,8 @@
 |  |
 | ------- |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
