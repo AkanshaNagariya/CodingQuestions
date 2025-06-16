@@ -12,6 +12,7 @@
 | [0216-combination-sum-iii](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0216-combination-sum-iii) |
 | [0347-top-k-frequent-elements](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0347-top-k-frequent-elements) |
 | [0410-split-array-largest-sum](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0410-split-array-largest-sum) |
+| [0495-teemo-attacking](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0495-teemo-attacking) |
 | [0621-task-scheduler](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0692-top-k-frequent-words) |
 | [0739-daily-temperatures](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0739-daily-temperatures) |
@@ -180,6 +181,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0495-teemo-attacking](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0495-teemo-attacking) |
 | [2048-build-array-from-permutation](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2048-build-array-from-permutation) |
 ## Graph
 |  |
