@@ -107,6 +107,7 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0012-integer-to-roman) |
+| [1013-fibonacci-number](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1236-n-th-tribonacci-number) |
 | [2032-largest-odd-number-in-string](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2032-largest-odd-number-in-string) |
 ## String
@@ -175,6 +176,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0410-split-array-largest-sum](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0410-split-array-largest-sum) |
 | [0747-min-cost-climbing-stairs](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0747-min-cost-climbing-stairs) |
+| [1013-fibonacci-number](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1236-n-th-tribonacci-number) |
 ## Prefix Sum
 |  |
@@ -391,5 +393,10 @@
 ## Memoization
 |  |
 | ------- |
+| [1013-fibonacci-number](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1236-n-th-tribonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
