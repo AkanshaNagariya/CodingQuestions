@@ -119,6 +119,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0387-first-unique-character-in-a-string](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0409-longest-palindrome) |
@@ -218,6 +219,7 @@
 |  |
 | ------- |
 | [0216-combination-sum-iii](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0216-combination-sum-iii) |
+| [0257-binary-tree-paths](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0257-binary-tree-paths) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -238,6 +240,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0257-binary-tree-paths](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0463-island-perimeter](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0463-island-perimeter) |
 | [0543-diameter-of-binary-tree](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0543-diameter-of-binary-tree) |
@@ -308,6 +311,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0257-binary-tree-paths](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0543-diameter-of-binary-tree) |
@@ -361,6 +365,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0257-binary-tree-paths](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0543-diameter-of-binary-tree) |
