@@ -199,6 +199,7 @@
 ## Graph
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0547-number-of-provinces) |
 | [0871-keys-and-rooms](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0871-keys-and-rooms) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Matrix
@@ -251,6 +252,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0463-island-perimeter](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0463-island-perimeter) |
 | [0543-diameter-of-binary-tree](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0662-maximum-width-of-binary-tree) |
@@ -273,6 +275,7 @@
 | [0226-invert-binary-tree](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0463-island-perimeter](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0463-island-perimeter) |
+| [0547-number-of-provinces](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0662-maximum-width-of-binary-tree) |
@@ -419,4 +422,8 @@
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0278-first-bad-version) |
+## Union Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
