@@ -30,6 +30,7 @@
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1675-magnetic-force-between-two-balls](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1675-magnetic-force-between-two-balls) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2048-build-array-from-permutation](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2048-build-array-from-permutation) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Divide and Conquer
@@ -55,6 +56,7 @@
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1675-magnetic-force-between-two-balls](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1675-magnetic-force-between-two-balls) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2327-largest-number-after-digit-swaps-by-parity](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2327-largest-number-after-digit-swaps-by-parity) |
 ## Heap (Priority Queue)
 |  |
@@ -151,6 +153,7 @@
 | [0621-task-scheduler](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0621-task-scheduler) |
 | [0876-hand-of-straights](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0876-hand-of-straights) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2032-largest-odd-number-in-string](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2032-largest-odd-number-in-string) |
 ## Two Pointers
 |  |
@@ -181,6 +184,7 @@
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1675-magnetic-force-between-two-balls](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1675-magnetic-force-between-two-balls) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -194,6 +198,7 @@
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0410-split-array-largest-sum) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Simulation
 |  |
 | ------- |
@@ -435,4 +440,8 @@
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0547-number-of-provinces) |
+## Sliding Window
+|  |
+| ------- |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1966-frequency-of-the-most-frequent-element) |
 <!---LeetCode Topics End-->
