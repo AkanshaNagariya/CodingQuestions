@@ -32,6 +32,7 @@
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1675-magnetic-force-between-two-balls](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1675-magnetic-force-between-two-balls) |
 | [1876-map-of-highest-peak](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1876-map-of-highest-peak) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2048-build-array-from-permutation](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2048-build-array-from-permutation) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2210-find-target-indices-after-sorting-array) |
@@ -137,6 +138,7 @@
 | [0657-robot-return-to-origin](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0657-robot-return-to-origin) |
 | [0692-top-k-frequent-words](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0692-top-k-frequent-words) |
 | [1078-remove-outermost-parentheses](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1078-remove-outermost-parentheses) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2032-largest-odd-number-in-string](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2032-largest-odd-number-in-string) |
 | [3194-find-words-containing-character](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/3194-find-words-containing-character) |
 ## Database
@@ -207,6 +209,7 @@
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0410-split-array-largest-sum) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Simulation
 |  |
