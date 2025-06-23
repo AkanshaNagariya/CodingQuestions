@@ -31,6 +31,7 @@
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1675-magnetic-force-between-two-balls](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1675-magnetic-force-between-two-balls) |
+| [1876-map-of-highest-peak](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1876-map-of-highest-peak) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2048-build-array-from-permutation](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2048-build-array-from-permutation) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
@@ -221,6 +222,7 @@
 | [0542-01-matrix](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1036-rotting-oranges) |
+| [1876-map-of-highest-peak](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1876-map-of-highest-peak) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Shortest Path
 |  |
@@ -302,6 +304,7 @@
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1035-cousins-in-binary-tree) |
 | [1036-rotting-oranges](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1036-rotting-oranges) |
+| [1876-map-of-highest-peak](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1876-map-of-highest-peak) |
 ## Queue
 |  |
 | ------- |
