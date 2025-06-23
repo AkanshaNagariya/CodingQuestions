@@ -15,6 +15,7 @@
 | [0410-split-array-largest-sum](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0410-split-array-largest-sum) |
 | [0463-island-perimeter](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0463-island-perimeter) |
 | [0495-teemo-attacking](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0495-teemo-attacking) |
+| [0542-01-matrix](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0542-01-matrix) |
 | [0621-task-scheduler](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0692-top-k-frequent-words) |
 | [0733-flood-fill](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0733-flood-fill) |
@@ -192,6 +193,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0198-house-robber) |
 | [0410-split-array-largest-sum](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0410-split-array-largest-sum) |
+| [0542-01-matrix](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0542-01-matrix) |
 | [0747-min-cost-climbing-stairs](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1236-n-th-tribonacci-number) |
@@ -216,6 +218,7 @@
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0463-island-perimeter) |
+| [0542-01-matrix](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1036-rotting-oranges) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
@@ -288,6 +291,7 @@
 | [0226-invert-binary-tree](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0463-island-perimeter](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0463-island-perimeter) |
+| [0542-01-matrix](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0653-two-sum-iv-input-is-a-bst) |
