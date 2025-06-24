@@ -143,6 +143,7 @@
 | [0657-robot-return-to-origin](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0657-robot-return-to-origin) |
 | [0692-top-k-frequent-words](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0692-top-k-frequent-words) |
 | [1078-remove-outermost-parentheses](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1078-remove-outermost-parentheses) |
+| [1205-defanging-an-ip-address](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1205-defanging-an-ip-address) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2032-largest-odd-number-in-string](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2032-largest-odd-number-in-string) |
 | [3194-find-words-containing-character](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/3194-find-words-containing-character) |
