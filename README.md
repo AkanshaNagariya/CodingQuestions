@@ -27,6 +27,7 @@
 | [1036-rotting-oranges](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1036-rotting-oranges) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1073-number-of-enclaves](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1073-number-of-enclaves) |
 | [1127-last-stone-weight](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1127-last-stone-weight) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
@@ -232,6 +233,7 @@
 | [0542-01-matrix](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1073-number-of-enclaves) |
 | [1876-map-of-highest-peak](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1876-map-of-highest-peak) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Shortest Path
@@ -289,6 +291,7 @@
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1035-cousins-in-binary-tree) |
+| [1073-number-of-enclaves](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1073-number-of-enclaves) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -316,6 +319,7 @@
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1035-cousins-in-binary-tree) |
 | [1036-rotting-oranges](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1073-number-of-enclaves) |
 | [1876-map-of-highest-peak](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1876-map-of-highest-peak) |
 ## Queue
 |  |
@@ -461,6 +465,7 @@
 | ------- |
 | [0130-surrounded-regions](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0547-number-of-provinces) |
+| [1073-number-of-enclaves](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1073-number-of-enclaves) |
 ## Sliding Window
 |  |
 | ------- |
