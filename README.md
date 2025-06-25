@@ -40,6 +40,7 @@
 | [2048-build-array-from-permutation](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2048-build-array-from-permutation) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2519-find-the-original-array-of-prefix-xor](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [3194-find-words-containing-character](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/3194-find-words-containing-character) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Divide and Conquer
@@ -457,6 +458,7 @@
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0222-count-complete-tree-nodes) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
+| [2519-find-the-original-array-of-prefix-xor](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2519-find-the-original-array-of-prefix-xor) |
 ## Monotonic Stack
 |  |
 | ------- |
