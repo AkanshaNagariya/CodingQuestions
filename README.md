@@ -116,6 +116,7 @@
 | [0621-task-scheduler](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0621-task-scheduler) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0692-top-k-frequent-words](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0692-top-k-frequent-words) |
+| [0782-jewels-and-stones](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0782-jewels-and-stones) |
 | [0876-hand-of-straights](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0876-hand-of-straights) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -144,6 +145,7 @@
 | [0409-longest-palindrome](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0409-longest-palindrome) |
 | [0657-robot-return-to-origin](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0657-robot-return-to-origin) |
 | [0692-top-k-frequent-words](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0692-top-k-frequent-words) |
+| [0782-jewels-and-stones](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0782-jewels-and-stones) |
 | [1078-remove-outermost-parentheses](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1078-remove-outermost-parentheses) |
 | [1205-defanging-an-ip-address](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1205-defanging-an-ip-address) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
