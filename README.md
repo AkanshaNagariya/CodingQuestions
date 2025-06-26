@@ -242,6 +242,7 @@
 | ------- |
 | [0547-number-of-provinces](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0801-is-graph-bipartite) |
+| [0813-all-paths-from-source-to-target](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0813-all-paths-from-source-to-target) |
 | [0871-keys-and-rooms](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0871-keys-and-rooms) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Matrix
@@ -277,6 +278,7 @@
 | ------- |
 | [0216-combination-sum-iii](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0257-binary-tree-paths) |
+| [0813-all-paths-from-source-to-target](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0813-all-paths-from-source-to-target) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -309,6 +311,7 @@
 | [0662-maximum-width-of-binary-tree](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0801-is-graph-bipartite) |
+| [0813-all-paths-from-source-to-target](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0813-all-paths-from-source-to-target) |
 | [0871-keys-and-rooms](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0871-keys-and-rooms) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -339,6 +342,7 @@
 | [0662-maximum-width-of-binary-tree](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0801-is-graph-bipartite) |
+| [0813-all-paths-from-source-to-target](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0813-all-paths-from-source-to-target) |
 | [0871-keys-and-rooms](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0871-keys-and-rooms) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
