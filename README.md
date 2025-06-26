@@ -44,6 +44,7 @@
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [3194-find-words-containing-character](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/3194-find-words-containing-character) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3778-transform-array-by-parity](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/3778-transform-array-by-parity) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -70,6 +71,7 @@
 | [1966-frequency-of-the-most-frequent-element](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2327-largest-number-after-digit-swaps-by-parity](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2327-largest-number-after-digit-swaps-by-parity) |
+| [3778-transform-array-by-parity](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/3778-transform-array-by-parity) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -362,6 +364,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0387-first-unique-character-in-a-string) |
 | [0621-task-scheduler](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0692-top-k-frequent-words) |
+| [3778-transform-array-by-parity](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/3778-transform-array-by-parity) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Tree
 |  |
