@@ -165,6 +165,7 @@
 | [0577-employee-bonus](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0595-big-countries) |
+| [1390-average-selling-price](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1390-average-selling-price) |
 | [1415-students-and-examinations](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1415-students-and-examinations) |
 | [1801-average-time-of-process-per-machine](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1801-average-time-of-process-per-machine) |
 | [1908-recyclable-and-low-fat-products](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1908-recyclable-and-low-fat-products) |
