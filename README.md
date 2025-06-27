@@ -249,6 +249,7 @@
 | [0547-number-of-provinces](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0801-is-graph-bipartite) |
 | [0813-all-paths-from-source-to-target](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0813-all-paths-from-source-to-target) |
+| [0820-find-eventual-safe-states](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0871-keys-and-rooms) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Matrix
@@ -318,6 +319,7 @@
 | [0733-flood-fill](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0801-is-graph-bipartite) |
 | [0813-all-paths-from-source-to-target](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0813-all-paths-from-source-to-target) |
+| [0820-find-eventual-safe-states](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0871-keys-and-rooms) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -349,6 +351,7 @@
 | [0733-flood-fill](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0801-is-graph-bipartite) |
 | [0813-all-paths-from-source-to-target](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0813-all-paths-from-source-to-target) |
+| [0820-find-eventual-safe-states](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0871-keys-and-rooms) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -513,4 +516,8 @@
 |  |
 | ------- |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1966-frequency-of-the-most-frequent-element) |
+## Topological Sort
+|  |
+| ------- |
+| [0820-find-eventual-safe-states](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0820-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
