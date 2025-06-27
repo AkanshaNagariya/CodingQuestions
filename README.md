@@ -251,6 +251,7 @@
 | [0813-all-paths-from-source-to-target](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0871-keys-and-rooms) |
+| [1661-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1661-minimum-number-of-vertices-to-reach-all-nodes) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Matrix
 |  |
