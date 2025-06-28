@@ -44,6 +44,7 @@
 | [2265-partition-array-according-to-given-pivot](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [3194-find-words-containing-character](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/3194-find-words-containing-character) |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3778-transform-array-by-parity](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/3778-transform-array-by-parity) |
 ## Divide and Conquer
@@ -134,6 +135,7 @@
 | [1013-fibonacci-number](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1236-n-th-tribonacci-number) |
 | [2032-largest-odd-number-in-string](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2032-largest-odd-number-in-string) |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## String
 |  |
 | ------- |
