@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/intervals-between-identical-elements">2240. Intervals Between Identical Elements</a></h2><h3>Medium</h3><hr><p>You are given a <strong>0-indexed</strong> array of <code>n</code> integers <code>arr</code>.</p>
+<h2><a href="https://leetcode.com/problems/intervals-between-identical-elements">Intervals Between Identical Elements</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr><p>You are given a <strong>0-indexed</strong> array of <code>n</code> integers <code>arr</code>.</p>
 
 <p>The <strong>interval</strong> between two elements in <code>arr</code> is defined as the <strong>absolute difference</strong> between their indices. More formally, the <strong>interval</strong> between <code>arr[i]</code> and <code>arr[j]</code> is <code>|i - j|</code>.</p>
 
