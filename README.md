@@ -164,6 +164,7 @@
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2032-largest-odd-number-in-string](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2032-largest-odd-number-in-string) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2243-check-if-all-as-appears-before-all-bs](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [3194-find-words-containing-character](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/3194-find-words-containing-character) |
 | [3811-reverse-degree-of-a-string](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/3811-reverse-degree-of-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
