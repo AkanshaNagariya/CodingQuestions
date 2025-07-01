@@ -36,6 +36,7 @@
 | [1580-shuffle-the-array](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1580-shuffle-the-array) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1675-magnetic-force-between-two-balls](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1675-magnetic-force-between-two-balls) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1876-map-of-highest-peak](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1876-map-of-highest-peak) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -129,6 +130,7 @@
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2240-intervals-between-identical-elements](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2240-intervals-between-identical-elements) |
 | [2413-smallest-number-in-infinite-set](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2413-smallest-number-in-infinite-set) |
 | [2721-sum-of-distances](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2721-sum-of-distances) |
@@ -162,6 +164,7 @@
 | [0782-jewels-and-stones](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0782-jewels-and-stones) |
 | [1078-remove-outermost-parentheses](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1078-remove-outermost-parentheses) |
 | [1205-defanging-an-ip-address](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1205-defanging-an-ip-address) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2032-largest-odd-number-in-string](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2032-largest-odd-number-in-string) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -401,6 +404,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0387-first-unique-character-in-a-string) |
 | [0621-task-scheduler](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0692-top-k-frequent-words) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [3778-transform-array-by-parity](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/3778-transform-array-by-parity) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Tree
@@ -515,6 +519,7 @@
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0222-count-complete-tree-nodes) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2519-find-the-original-array-of-prefix-xor) |
 ## Monotonic Stack
 |  |
