@@ -192,6 +192,7 @@
 | [0584-find-customer-referee](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0595-big-countries) |
 | [0619-biggest-single-number](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0619-biggest-single-number) |
+| [1155-product-sales-analysis-iii](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1155-product-sales-analysis-iii) |
 | [1182-game-play-analysis-iv](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1182-game-play-analysis-iv) |
 | [1245-user-activity-for-the-past-30-days-i](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1245-user-activity-for-the-past-30-days-i) |
 | [1292-immediate-food-delivery-ii](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1292-immediate-food-delivery-ii) |
