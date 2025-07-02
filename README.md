@@ -202,6 +202,7 @@
 | [1415-students-and-examinations](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1415-students-and-examinations) |
 | [1773-percentage-of-users-attended-a-contest](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1773-percentage-of-users-attended-a-contest) |
 | [1801-average-time-of-process-per-machine](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1801-average-time-of-process-per-machine) |
+| [1837-daily-leads-and-partners](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1837-daily-leads-and-partners) |
 | [1877-find-followers-count](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1877-find-followers-count) |
 | [1908-recyclable-and-low-fat-products](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1908-recyclable-and-low-fat-products) |
 | [2087-confirmation-rate](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2087-confirmation-rate) |
