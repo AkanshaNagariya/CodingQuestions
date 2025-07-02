@@ -44,6 +44,7 @@
 | [1966-frequency-of-the-most-frequent-element](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2048-build-array-from-permutation](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2048-build-array-from-permutation) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2240-intervals-between-identical-elements](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2240-intervals-between-identical-elements) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -322,6 +323,7 @@
 | [0216-combination-sum-iii](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0257-binary-tree-paths) |
 | [0813-all-paths-from-source-to-target](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0813-all-paths-from-source-to-target) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -528,6 +530,7 @@
 | [0268-missing-number](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0268-missing-number) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2519-find-the-original-array-of-prefix-xor) |
 ## Monotonic Stack
 |  |
@@ -565,4 +568,8 @@
 | [0207-course-schedule](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0210-course-schedule-ii) |
 | [0820-find-eventual-safe-states](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0820-find-eventual-safe-states) |
+## Enumeration
+|  |
+| ------- |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 <!---LeetCode Topics End-->
