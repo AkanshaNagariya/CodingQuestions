@@ -14,6 +14,7 @@
 | [0200-number-of-islands](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0216-combination-sum-iii) |
+| [0268-missing-number](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0347-top-k-frequent-elements) |
 | [0410-split-array-largest-sum](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0410-split-array-largest-sum) |
@@ -68,6 +69,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0268-missing-number) |
 | [0295-find-median-from-data-stream](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0621-task-scheduler) |
@@ -119,6 +121,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0205-isomorphic-strings](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0355-design-twitter) |
 | [0387-first-unique-character-in-a-string](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0387-first-unique-character-in-a-string) |
@@ -141,6 +144,7 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0012-integer-to-roman) |
+| [0268-missing-number](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0268-missing-number) |
 | [0441-arranging-coins](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0441-arranging-coins) |
 | [1013-fibonacci-number](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1236-n-th-tribonacci-number) |
@@ -233,6 +237,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0222-count-complete-tree-nodes](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0222-count-complete-tree-nodes) |
+| [0268-missing-number](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0278-first-bad-version) |
 | [0410-split-array-largest-sum](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0410-split-array-largest-sum) |
 | [0441-arranging-coins](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0441-arranging-coins) |
@@ -520,6 +525,7 @@
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0222-count-complete-tree-nodes) |
+| [0268-missing-number](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0268-missing-number) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2519-find-the-original-array-of-prefix-xor) |
