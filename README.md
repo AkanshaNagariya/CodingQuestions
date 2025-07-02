@@ -14,6 +14,7 @@
 | [0200-number-of-islands](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0216-combination-sum-iii) |
+| [0283-move-zeroes](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0347-top-k-frequent-elements) |
 | [0410-split-array-largest-sum](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0410-split-array-largest-sum) |
 | [0463-island-perimeter](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0463-island-perimeter) |
@@ -213,6 +214,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0151-reverse-words-in-a-string) |
+| [0283-move-zeroes](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0283-move-zeroes) |
 | [0295-find-median-from-data-stream](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0295-find-median-from-data-stream) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2265-partition-array-according-to-given-pivot) |
