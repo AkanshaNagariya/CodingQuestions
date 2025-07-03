@@ -48,6 +48,7 @@
 | [2210-find-target-indices-after-sorting-array](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2240-intervals-between-identical-elements](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2240-intervals-between-identical-elements) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2442-number-of-arithmetic-triplets](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2442-number-of-arithmetic-triplets) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2721-sum-of-distances](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2721-sum-of-distances) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -140,6 +141,7 @@
 | [1786-count-the-number-of-consistent-strings](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2240-intervals-between-identical-elements](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2240-intervals-between-identical-elements) |
 | [2413-smallest-number-in-infinite-set](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2413-smallest-number-in-infinite-set) |
+| [2442-number-of-arithmetic-triplets](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2442-number-of-arithmetic-triplets) |
 | [2721-sum-of-distances](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2721-sum-of-distances) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -235,6 +237,7 @@
 | [0295-find-median-from-data-stream](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0295-find-median-from-data-stream) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2442-number-of-arithmetic-triplets](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2442-number-of-arithmetic-triplets) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Stack
 |  |
@@ -586,4 +589,5 @@
 |  |
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2442-number-of-arithmetic-triplets](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2442-number-of-arithmetic-triplets) |
 <!---LeetCode Topics End-->
