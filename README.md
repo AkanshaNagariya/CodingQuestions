@@ -205,6 +205,7 @@
 | [1837-daily-leads-and-partners](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1837-daily-leads-and-partners) |
 | [1877-find-followers-count](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1877-find-followers-count) |
 | [1908-recyclable-and-low-fat-products](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1908-recyclable-and-low-fat-products) |
+| [1948-rearrange-products-table](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1948-rearrange-products-table) |
 | [2087-confirmation-rate](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2087-confirmation-rate) |
 | [2127-employees-whose-manager-left-the-company](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2127-employees-whose-manager-left-the-company) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
