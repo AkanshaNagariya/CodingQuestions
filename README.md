@@ -200,6 +200,7 @@
 | [0595-big-countries](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0595-big-countries) |
 | [0596-classes-with-at-least-5-students](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0596-classes-with-at-least-5-students) |
 | [0619-biggest-single-number](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0619-biggest-single-number) |
+| [0626-exchange-seats](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0626-exchange-seats) |
 | [0627-swap-salary](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0627-swap-salary) |
 | [1135-customers-who-bought-all-products](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1135-customers-who-bought-all-products) |
 | [1155-product-sales-analysis-iii](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1155-product-sales-analysis-iii) |
