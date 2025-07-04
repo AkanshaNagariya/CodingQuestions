@@ -52,6 +52,7 @@
 | [2454-largest-local-values-in-a-matrix](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2454-largest-local-values-in-a-matrix) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2721-sum-of-distances](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2721-sum-of-distances) |
+| [2876-number-of-employees-who-met-the-target](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3194-find-words-containing-character](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/3194-find-words-containing-character) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
