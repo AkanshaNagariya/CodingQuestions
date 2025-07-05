@@ -222,6 +222,7 @@
 | [1877-find-followers-count](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1877-find-followers-count) |
 | [1882-the-number-of-employees-which-report-to-each-employee](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1882-the-number-of-employees-which-report-to-each-employee) |
 | [1908-recyclable-and-low-fat-products](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1908-recyclable-and-low-fat-products) |
+| [1942-primary-department-for-each-employee](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1942-primary-department-for-each-employee) |
 | [1948-rearrange-products-table](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1948-rearrange-products-table) |
 | [2087-confirmation-rate](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2087-confirmation-rate) |
 | [2127-employees-whose-manager-left-the-company](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2127-employees-whose-manager-left-the-company) |
