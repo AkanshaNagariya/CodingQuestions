@@ -214,6 +214,7 @@
 | [1801-average-time-of-process-per-machine](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1801-average-time-of-process-per-machine) |
 | [1837-daily-leads-and-partners](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1837-daily-leads-and-partners) |
 | [1877-find-followers-count](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1877-find-followers-count) |
+| [1882-the-number-of-employees-which-report-to-each-employee](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1882-the-number-of-employees-which-report-to-each-employee) |
 | [1908-recyclable-and-low-fat-products](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1908-recyclable-and-low-fat-products) |
 | [1948-rearrange-products-table](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1948-rearrange-products-table) |
 | [2087-confirmation-rate](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2087-confirmation-rate) |
