@@ -163,6 +163,7 @@
 | [0441-arranging-coins](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0441-arranging-coins) |
 | [1013-fibonacci-number](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1236-n-th-tribonacci-number) |
+| [1610-xor-operation-in-an-array](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1610-xor-operation-in-an-array) |
 | [2032-largest-odd-number-in-string](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2032-largest-odd-number-in-string) |
 | [2812-find-the-maximum-achievable-number](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2812-find-the-maximum-achievable-number) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
@@ -569,6 +570,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0268-missing-number) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
+| [1610-xor-operation-in-an-array](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1610-xor-operation-in-an-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2519-find-the-original-array-of-prefix-xor) |
