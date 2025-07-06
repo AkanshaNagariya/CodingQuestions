@@ -53,6 +53,7 @@
 | [2454-largest-local-values-in-a-matrix](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2454-largest-local-values-in-a-matrix) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2721-sum-of-distances](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2721-sum-of-distances) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3194-find-words-containing-character](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/3194-find-words-containing-character) |
@@ -151,6 +152,7 @@
 | [2413-smallest-number-in-infinite-set](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2413-smallest-number-in-infinite-set) |
 | [2442-number-of-arithmetic-triplets](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2442-number-of-arithmetic-triplets) |
 | [2721-sum-of-distances](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2721-sum-of-distances) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Math
@@ -570,6 +572,7 @@
 | [1786-count-the-number-of-consistent-strings](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2519-find-the-original-array-of-prefix-xor) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Monotonic Stack
 |  |
 | ------- |
