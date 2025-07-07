@@ -220,6 +220,7 @@
 | [1245-user-activity-for-the-past-30-days-i](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1245-user-activity-for-the-past-30-days-i) |
 | [1278-product-price-at-a-given-date](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1278-product-price-at-a-given-date) |
 | [1292-immediate-food-delivery-ii](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1292-immediate-food-delivery-ii) |
+| [1327-last-person-to-fit-in-the-bus](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1327-last-person-to-fit-in-the-bus) |
 | [1390-average-selling-price](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1390-average-selling-price) |
 | [1415-students-and-examinations](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1415-students-and-examinations) |
 | [1670-patients-with-a-condition](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1670-patients-with-a-condition) |
