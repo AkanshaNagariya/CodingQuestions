@@ -223,6 +223,7 @@
 | [1327-last-person-to-fit-in-the-bus](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1327-last-person-to-fit-in-the-bus) |
 | [1390-average-selling-price](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1390-average-selling-price) |
 | [1415-students-and-examinations](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1415-students-and-examinations) |
+| [1452-restaurant-growth](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1452-restaurant-growth) |
 | [1670-patients-with-a-condition](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1670-patients-with-a-condition) |
 | [1773-percentage-of-users-attended-a-contest](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1773-percentage-of-users-attended-a-contest) |
 | [1801-average-time-of-process-per-machine](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1801-average-time-of-process-per-machine) |
