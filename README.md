@@ -227,6 +227,7 @@
 | [1390-average-selling-price](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1390-average-selling-price) |
 | [1415-students-and-examinations](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1415-students-and-examinations) |
 | [1452-restaurant-growth](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1452-restaurant-growth) |
+| [1462-list-the-products-ordered-in-a-period](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1462-list-the-products-ordered-in-a-period) |
 | [1625-group-sold-products-by-the-date](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1625-group-sold-products-by-the-date) |
 | [1670-patients-with-a-condition](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1670-patients-with-a-condition) |
 | [1773-percentage-of-users-attended-a-contest](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1773-percentage-of-users-attended-a-contest) |
