@@ -51,6 +51,7 @@
 | [2265-partition-array-according-to-given-pivot](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2442-number-of-arithmetic-triplets](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2442-number-of-arithmetic-triplets) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2454-largest-local-values-in-a-matrix) |
+| [2486-most-frequent-even-element](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2486-most-frequent-even-element) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2721-sum-of-distances](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2721-sum-of-distances) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -151,6 +152,7 @@
 | [2240-intervals-between-identical-elements](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2240-intervals-between-identical-elements) |
 | [2413-smallest-number-in-infinite-set](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2413-smallest-number-in-infinite-set) |
 | [2442-number-of-arithmetic-triplets](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2442-number-of-arithmetic-triplets) |
+| [2486-most-frequent-even-element](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2486-most-frequent-even-element) |
 | [2721-sum-of-distances](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2721-sum-of-distances) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -464,6 +466,7 @@
 | [0621-task-scheduler](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0692-top-k-frequent-words) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2486-most-frequent-even-element](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2486-most-frequent-even-element) |
 | [3778-transform-array-by-parity](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/3778-transform-array-by-parity) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Tree
