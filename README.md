@@ -10,6 +10,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0130-surrounded-regions](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0130-surrounded-regions) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0198-house-robber](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0215-kth-largest-element-in-an-array) |
@@ -161,6 +162,7 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0012-integer-to-roman) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0268-missing-number) |
 | [0441-arranging-coins](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0441-arranging-coins) |
 | [1013-fibonacci-number](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1013-fibonacci-number) |
@@ -281,6 +283,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0739-daily-temperatures](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0739-daily-temperatures) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1078-remove-outermost-parentheses](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1078-remove-outermost-parentheses) |
