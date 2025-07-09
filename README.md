@@ -123,6 +123,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0355-design-twitter](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0355-design-twitter) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Merge Sort
@@ -170,6 +171,7 @@
 | [1013-fibonacci-number](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1236-n-th-tribonacci-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1610-xor-operation-in-an-array](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1610-xor-operation-in-an-array) |
 | [2032-largest-odd-number-in-string](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2032-largest-odd-number-in-string) |
 | [2812-find-the-maximum-achievable-number](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2812-find-the-maximum-achievable-number) |
