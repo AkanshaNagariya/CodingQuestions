@@ -123,6 +123,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0355-design-twitter](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0355-design-twitter) |
+| [2299-merge-nodes-in-between-zeros](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Merge Sort
 |  |
@@ -332,6 +333,7 @@
 | [2048-build-array-from-permutation](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2048-build-array-from-permutation) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2299-merge-nodes-in-between-zeros](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2299-merge-nodes-in-between-zeros) |
 | [3811-reverse-degree-of-a-string](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/3811-reverse-degree-of-a-string) |
 ## Graph
 |  |
