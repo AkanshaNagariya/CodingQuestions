@@ -174,6 +174,7 @@
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1610-xor-operation-in-an-array](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1610-xor-operation-in-an-array) |
 | [2032-largest-odd-number-in-string](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2032-largest-odd-number-in-string) |
+| [2752-sum-multiples](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2752-sum-multiples) |
 | [2812-find-the-maximum-achievable-number](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2812-find-the-maximum-achievable-number) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/3172-divisible-and-non-divisible-sums-difference) |
