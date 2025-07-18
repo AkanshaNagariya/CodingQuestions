@@ -1,11 +1,12 @@
 
-<!---LeetCode Topics Start--> 
-# LeetCode Topics  
+<!---LeetCode Topics Start-->
+# LeetCode Topics
 ## Array
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0054-spiral-matrix](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0054-spiral-matrix) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -333,6 +334,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0054-spiral-matrix) |
 | [0495-teemo-attacking](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0495-teemo-attacking) |
 | [0657-robot-return-to-origin](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0657-robot-return-to-origin) |
 | [2048-build-array-from-permutation](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2048-build-array-from-permutation) |
@@ -356,6 +358,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0054-spiral-matrix) |
 | [0130-surrounded-regions](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0463-island-perimeter) |
