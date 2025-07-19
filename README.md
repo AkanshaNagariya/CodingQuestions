@@ -1,6 +1,6 @@
 
 <!---LeetCode Topics Start-->
-# LeetCode Topics 
+# LeetCode Topics
 ## Array
 |  |
 | ------- |
@@ -61,6 +61,7 @@
 | [2876-number-of-employees-who-met-the-target](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3194-find-words-containing-character](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/3194-find-words-containing-character) |
+| [3226-minimum-number-game](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/3226-minimum-number-game) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -96,6 +97,7 @@
 | [2210-find-target-indices-after-sorting-array](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2327-largest-number-after-digit-swaps-by-parity](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2327-largest-number-after-digit-swaps-by-parity) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3226-minimum-number-game](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/3226-minimum-number-game) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3778-transform-array-by-parity](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/3778-transform-array-by-parity) |
 ## Heap (Priority Queue)
@@ -112,6 +114,7 @@
 | [1127-last-stone-weight](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1127-last-stone-weight) |
 | [2327-largest-number-after-digit-swaps-by-parity](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2327-largest-number-after-digit-swaps-by-parity) |
 | [2413-smallest-number-in-infinite-set](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2413-smallest-number-in-infinite-set) |
+| [3226-minimum-number-game](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/3226-minimum-number-game) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Quickselect
 |  |
@@ -341,6 +344,7 @@
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2299-merge-nodes-in-between-zeros) |
+| [3226-minimum-number-game](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/3226-minimum-number-game) |
 | [3811-reverse-degree-of-a-string](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/3811-reverse-degree-of-a-string) |
 ## Graph
 |  |
