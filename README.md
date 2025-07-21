@@ -54,6 +54,7 @@
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2240-intervals-between-identical-elements](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2240-intervals-between-identical-elements) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2283-sort-even-and-odd-indices-independently](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2283-sort-even-and-odd-indices-independently) |
 | [2442-number-of-arithmetic-triplets](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2442-number-of-arithmetic-triplets) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2454-largest-local-values-in-a-matrix) |
 | [2486-most-frequent-even-element](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2486-most-frequent-even-element) |
@@ -99,6 +100,7 @@
 | [1675-magnetic-force-between-two-balls](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1675-magnetic-force-between-two-balls) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2283-sort-even-and-odd-indices-independently](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2283-sort-even-and-odd-indices-independently) |
 | [2327-largest-number-after-digit-swaps-by-parity](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2327-largest-number-after-digit-swaps-by-parity) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3226-minimum-number-game](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/3226-minimum-number-game) |
