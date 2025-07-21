@@ -31,6 +31,7 @@
 | [0747-min-cost-climbing-stairs](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0747-min-cost-climbing-stairs) |
 | [0876-hand-of-straights](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0876-hand-of-straights) |
 | [0907-koko-eating-bananas](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0907-koko-eating-bananas) |
+| [0941-sort-array-by-parity](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0941-sort-array-by-parity) |
 | [1036-rotting-oranges](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1036-rotting-oranges) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -91,6 +92,7 @@
 | [0621-task-scheduler](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0692-top-k-frequent-words) |
 | [0876-hand-of-straights](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0876-hand-of-straights) |
+| [0941-sort-array-by-parity](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0941-sort-array-by-parity) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -287,6 +289,7 @@
 | [0283-move-zeroes](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0283-move-zeroes) |
 | [0295-find-median-from-data-stream](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0295-find-median-from-data-stream) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0941-sort-array-by-parity](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0941-sort-array-by-parity) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2442-number-of-arithmetic-triplets](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2442-number-of-arithmetic-triplets) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
