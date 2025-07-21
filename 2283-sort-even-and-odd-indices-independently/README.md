@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/sort-even-and-odd-indices-independently">2283. Sort Even and Odd Indices Independently</a></h2><h3>Easy</h3><hr><p>You are given a <strong>0-indexed</strong> integer array <code>nums</code>. Rearrange the values of <code>nums</code> according to the following rules:</p>
+<h2><a href="https://leetcode.com/problems/sort-even-and-odd-indices-independently">Sort Even and Odd Indices Independently</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>You are given a <strong>0-indexed</strong> integer array <code>nums</code>. Rearrange the values of <code>nums</code> according to the following rules:</p>
 
 <ol>
 	<li>Sort the values at <strong>odd indices</strong> of <code>nums</code> in <strong>non-increasing</strong> order.
