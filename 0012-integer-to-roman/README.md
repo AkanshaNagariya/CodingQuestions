@@ -3,7 +3,7 @@
 <table>
 	<thead>
 		<tr>
-			<th>Symbol</th>
+			<th>Symbol</th> 
 			<th>Value</th>
 		</tr>
 	</thead>
