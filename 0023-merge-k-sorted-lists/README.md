@@ -3,7 +3,7 @@
 <p><em>Merge all the linked-lists into one sorted linked-list and return it.</em></p>
 
 <p>&nbsp;</p>
-<p><strong class="example">Example 1:</strong></p>
+<p><strong class="example">Example 1:</strong></p> 
 
 <pre>
 <strong>Input:</strong> lists = [[1,4,5],[1,3,4],[2,6]]
