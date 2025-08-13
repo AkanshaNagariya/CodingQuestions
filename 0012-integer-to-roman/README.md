@@ -6,7 +6,7 @@
 			<th>Symbol</th> 
 			<th>Value</th>
 		</tr>
-	</thead>
+	</thead> 
 	<tbody>
 		<tr>
 			<td>I</td>
