@@ -1,6 +1,6 @@
 <h2><a href="https://leetcode.com/problems/candy">135. Candy</a></h2><h3>Hard</h3><hr><p>There are <code>n</code> children standing in a line. Each child is assigned a rating value given in the integer array <code>ratings</code>.</p>
 
-<p>You are giving candies to these children subjected to the following requirements:</p>
+<p>You are giving candies to these children subjected to the following requirements:</p> 
 
 <ul>
 	<li>Each child must have at least one candy.</li>
