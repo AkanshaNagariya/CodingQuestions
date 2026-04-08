@@ -1,5 +1,5 @@
  
-<!---LeetCode Topics Start-->  
+<!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
 |  |
@@ -69,6 +69,7 @@
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3778-transform-array-by-parity](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/3778-transform-array-by-parity) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Divide and Conquer
@@ -81,6 +82,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/0347-top-k-frequent-elements) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Sorting
 |  |
 | ------- |
@@ -353,6 +355,7 @@
 | [2265-partition-array-according-to-given-pivot](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/2299-merge-nodes-in-between-zeros) |
 | [3226-minimum-number-game](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/3226-minimum-number-game) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3811-reverse-degree-of-a-string](https://github.com/AkanshaNagariya/CodingQuestions/tree/master/3811-reverse-degree-of-a-string) |
 ## Graph
 |  |
